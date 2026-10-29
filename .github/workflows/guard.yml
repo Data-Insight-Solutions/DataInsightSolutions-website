@@ -1,0 +1,8 @@
+name: guard-public
+on: [push, pull_request]
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: bash scripts/guard-public.sh --all

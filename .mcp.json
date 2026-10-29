@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reckons": {
+      "command": "bash",
+      "args": ["${RECKONS_HOME}/scripts/mcp-server.sh", "--kb", "./workspace"]
+    }
+  }
+}
