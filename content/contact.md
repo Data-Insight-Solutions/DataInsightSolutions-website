@@ -2,7 +2,7 @@
 title: Contact
 slug: contact
 template: doc
-status: draft
+status: published
 excerpt: Tell me about your DAM, your integrations, or what you'd like AI to do for your team.
 ---
 

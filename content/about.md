@@ -2,7 +2,7 @@
 title: About Matthew Roe
 slug: about
 template: doc
-status: draft
+status: published
 excerpt: Matthew Roe — solutions architect for digital asset management, AI systems integrator, builder of Reckons.AI.
 ---
 

@@ -2,7 +2,7 @@
 title: Data Insight Solutions — Orange Logic DAM consulting, integrations and AI
 slug: home
 template: landing
-status: draft
+status: published
 excerpt: Enterprise Orange Logic DAM consulting, custom integrations and AI agents.
 ---
 

@@ -2,7 +2,7 @@
 title: Services — Orange Logic consulting, integrations, and AI
 slug: services
 template: doc
-status: draft
+status: published
 excerpt: Orange Logic DAM consulting, custom integrations, AI that keeps humans in control, and the Reckons.AI project.
 ---
 
