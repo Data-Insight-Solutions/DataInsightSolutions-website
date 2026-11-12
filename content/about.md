@@ -90,4 +90,4 @@ This ring was filmed on a scan board and reconstructed into a 3D Gaussian splat 
 
 <iframe src="/assets/ring/viewer/" title="Interactive 3D view of the reconstructed ring: drag to rotate" class="embed-4x3" loading="lazy" width="900" height="700"></iframe>
 
-Drag the ring to turn it.
+Drag the ring to turn it. [See how it was made in Reckons.AI](https://reckons.ai/about?example=ring-scan): the video, the frames that were kept and every step from filming to the finished 3D asset.
