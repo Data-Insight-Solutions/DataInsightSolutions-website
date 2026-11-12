@@ -24,7 +24,7 @@ In Orange Logic, an agent is given its own purpose and instructions and is confi
 
 ## The person stays in charge
 
-The part I care most about is what happens to the agent's answer.
+The part we care most about is what happens to the agent's answer.
 
 What the AI writes can go into its own dedicated field, clearly marked as coming from AI. Nothing is hidden and nothing is mistaken for a person's work. When someone approves it, that approval can copy the text into the standard field, such as the Description everyone sees, or into other fields that hold governed data.
 
@@ -34,10 +34,10 @@ How people approve is up to the team. It can be a custom button, a workflow stat
 
 Not everything needs AI. When a task follows clear logic, a plain automation is more consistent, and consistency is what you want from a system of record. Agents are worth considering for the larger, messier jobs, where the input varies too much for a rule to handle.
 
-So my first question on any project is not "where can we add AI?" It is "what is this team doing by hand, and what kind of problem is it?"
+So our first question on any project is not "where can we add AI?" It is "what is this team doing by hand, and what kind of problem is it?"
 
-## How I come to this
+## Where this comes from
 
-I developed custom integrations and early agent prototypes on the [Orange Logic](https://www.orangelogic.com) platform, and today I consult on it: implementing the software and building custom integrations for the teams that use it. I do not speak for Orange Logic or its product roadmap. What I bring is hands-on experience with the platform and with what makes these projects work.
+Matthew Roe, the owner-operator, developed custom integrations and early agent prototypes on the [Orange Logic](https://www.orangelogic.com) platform, and today consults on it: implementing the software and building custom integrations for the teams that use it. Neither he nor Data Insight Solutions speaks for Orange Logic or its product roadmap. What we bring is hands-on experience with the platform and with what makes these projects work.
 
 If your team is typing the same kinds of descriptions day after day, [let's talk](/contact/).

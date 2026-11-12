@@ -3,7 +3,7 @@ title: Contact
 slug: contact
 template: doc
 status: published
-excerpt: Tell me about your DAM, your integrations, or what you'd like AI to do for your team.
+excerpt: Tell us about your DAM, your integrations, or what you'd like AI to do for your team.
 ---
 
-Tell me about your DAM, your integrations, or what you'd like AI to do for your team. You'll hear back from the person who will do the work, usually within two business days.
+Tell us about your DAM, your integrations, or what you'd like AI to do for your team. You work directly with the owner-operator, who does the work, and you'll hear back usually within two business days.

@@ -24,9 +24,9 @@ People often put meaning into folder names. A path like `Region / Project / Stag
 
 The project worked with [File On Demand](https://www.orangelogic.com/products/digital-asset-management-integrations), which Orange Logic describes as streaming files from its digital asset management system (the DAM) without full downloads or duplicate copies. It presents virtual folder paths, and those paths are there to be read.
 
-## What I built
+## What was built
 
-I built metadata extraction and record consolidation on top of those virtual folder paths:
+Matthew Roe, the owner-operator, built metadata extraction and record consolidation on top of those virtual folder paths:
 
 - **Read the path.** Each part of the path and the file name is turned into structured information on the record, so `Region`, `Project` and `Stage` become real fields people can filter and search on.
 - **One file, one record.** When the same file name turns up in several locations, its versions and its metadata are brought together into a single record, instead of one record per copy.

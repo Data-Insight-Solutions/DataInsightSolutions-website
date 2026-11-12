@@ -22,20 +22,20 @@ Data Insight Solutions LLC is a Missouri limited liability company, formed in 20
 @id: principles
 @eyebrow: About this
 
-I help businesses turn raw data into strategic advantage through thoughtful architecture, skilled implementation, and a genuine partnership.
+We help businesses turn raw data into strategic advantage through thoughtful architecture, skilled implementation, and a genuine partnership.
 
 ==Technology should amplify human capability, not replace it.==
 
 - **People come first:** technology serves your team's goals and growth.
 - **Context matters:** every business is unique, and cookie-cutter solutions fail.
-- **Partnerships work:** I am invested in your long-term outcomes.
+- **Partnerships work:** we are invested in your long-term outcomes.
 - **Knowledge transfers:** your team should understand and own its systems, which is where [how we work together](/services/#how-we-work) ends.
 
 ## ==Matthew Roe==, owner-operator
 @section: text
 @id: owner
 
-I'm Matthew Roe, the owner-operator of Data Insight Solutions: a solutions architect for DAM and an AI systems integrator. I'm currently a DAM Developer / Software Engineer at VF Corp (contract through Apex Systems, October 2025 – present, remote), building enterprise Orange Logic automations and integrations. Earlier, I was Solution Engineer, then Solutions Architect, at Orange Logic (November 2023 – September 2025), serving many clients, most not disclosable.
+Matthew Roe is the owner-operator of Data Insight Solutions: a solutions architect for DAM and an AI systems integrator. He is currently a DAM Developer / Software Engineer at VF Corp (contract through Apex Systems, October 2025 – present, remote), building enterprise Orange Logic automations and integrations. Earlier, he was Solution Engineer, then Solutions Architect, at Orange Logic (November 2023 – September 2025), serving many clients, most not disclosable.
 
 ## The career line
 @section: blocks
@@ -45,7 +45,7 @@ I'm Matthew Roe, the owner-operator of Data Insight Solutions: a solutions archi
 ### Experience
 @as: timeline
 @span: tall
-@note: The Orange Logic, Submittable and Univision Computers logos are shown only to describe my professional background. All trademarks belong to their owners, and no affiliation or endorsement is implied.
+@note: The Orange Logic, Submittable and Univision Computers logos are shown only to describe Matthew Roe's professional background. All trademarks belong to their owners, and no affiliation or endorsement is implied.
 - Oct 2025 – present | VF Corp | DAM Developer / Software Engineer (contract through Apex Systems)
 - Nov 2023 – Sep 2025 | Orange Logic | Solution Engineer, then Solutions Architect | logo: /assets/logos/orange-logic.svg
 - May 2021 – Aug 2023 | Submittable | Solution Engineer, Senior Solution Engineer, Solutions Architect | logo: /assets/logos/submittable.svg
