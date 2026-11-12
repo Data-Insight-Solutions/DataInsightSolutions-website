@@ -14,14 +14,22 @@ excerpt: Data Insight Solutions is an Orange Logic DAM consultancy in Ava, Misso
 
 Data Insight Solutions LLC is a Missouri limited liability company, formed in 2023, and a consultancy in Ava, Missouri, working remotely with teams anywhere. It does enterprise Orange Logic digital asset management (DAM) consulting, custom integrations, and AI agents that keep a person in control. It is also home to Reckons.AI, the custom software behind this site. Work is project-based and starts with a discovery, and you deal directly with the person who does the work.
 
-I help businesses turn raw data into strategic advantage through thoughtful architecture, skilled implementation, and a genuine partnership. Technology should amplify human capability, not replace it.
+- [Talk about your project →](/contact/)
+
+## Principles
+@section: text
+@as: cards
+@id: principles
+@eyebrow: About this
+
+I help businesses turn raw data into strategic advantage through thoughtful architecture, skilled implementation, and a genuine partnership.
+
+==Technology should amplify human capability, not replace it.==
 
 - **People come first:** technology serves your team's goals and growth.
 - **Context matters:** every business is unique, and cookie-cutter solutions fail.
 - **Partnerships work:** I am invested in your long-term outcomes.
 - **Knowledge transfers:** your team should understand and own its systems, which is where [how we work together](/services/#how-we-work) ends.
-
-- [Talk about your project →](/contact/)
 
 ## ==Matthew Roe==, owner-operator
 @section: text
@@ -62,7 +70,7 @@ I'm Matthew Roe, the owner-operator of Data Insight Solutions: a solutions archi
 - UNLV Interactive Measurement Lab, 2013–2016; published "Is sadness blue? The problem of using figurative language for emotions on psychological tests" in *Behavior Research Methods* (2016).
 
 ### Recognition
-Microsoft Semantic Kernel Hackathon winner, and the first round-trip Philanthropy Data Commons integration with Submittable — both outside the Orange Logic consulting offer.
+Microsoft Semantic Kernel Hackathon winner, and the first round-trip Philanthropy Data Commons integration with Submittable.
 
 Division I collegiate swimming: three conference championships, and ranked in the US top 100 in the 1650 freestyle.
 

@@ -57,16 +57,6 @@ We start with a discovery: a free, multi-hour consultation for companies with ov
 
 As a system matures I step back, and you own it: by the end, your team understands what was built and can run it without me.
 
-## Recognition
-@section: text
-@id: recognition
-@eyebrow: Recognition
-
-Two things I like to point to, even though neither is part of the Orange Logic consulting offer:
-
-- **Microsoft Semantic Kernel Hackathon winner.**
-- **First round-trip Philanthropy Data Commons integration with Submittable.**
-
 ## Have a project in mind?
 @section: banner
 
