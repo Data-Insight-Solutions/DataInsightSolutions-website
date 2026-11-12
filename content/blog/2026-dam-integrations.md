@@ -16,7 +16,7 @@ categories:
 
 A digital asset management system (a DAM) is where a company keeps its images, video and documents. On its own it stores and finds things. The value shows up when it is connected to the other tools a team relies on.
 
-[Orange Logic](https://www.orangelogic.com/products/digital-asset-management-integrations) offers ready-made integrations from itself and its partners, listed in its [Marketplace](https://marketplace.orangelogic.com/), and lets a team build its own through its APIs. Here are three kinds of integration I have worked on, with an honest note on the limits of each.
+[Orange Logic](https://www.orangelogic.com/products/digital-asset-management-integrations) offers ready-made integrations from itself and its partners, listed in its [Marketplace](https://marketplace.orangelogic.com/), and lets a team build its own through its APIs. Here are three kinds of integration, with an honest note on the limits of each. I have built the first two, image classification and watermarking; the third, provenance, I have worked with less.
 
 ## 1. A second pair of eyes: custom vision
 
