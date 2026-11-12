@@ -55,6 +55,8 @@ Honest status: alpha. A small RDFS/OWL subset, no SPARQL engine yet.
 
 We start with a discovery: a free, multi-hour consultation for companies with over $1M in revenue, or a 30-minute discovery for $50. If the fit is right for both of us, I write a statement of work. The work is project-based, at a minimum of $100 per hour, with discounts available for local and nonprofit organizations.
 
+As a system matures I step back, and you own it: by the end, your team understands what was built and can run it without me.
+
 ## Recognition
 @section: text
 @id: recognition
