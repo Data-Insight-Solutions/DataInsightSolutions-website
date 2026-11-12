@@ -27,11 +27,11 @@ I was Solution Engineer (November 2023 – August 2024), then Solutions Architec
 ### Custom Orange Logic integrations
 Some jobs are too specific for the standard product. I build them anyway. Recent integrations:
 
-- **Metadata extraction from File On Demand virtual folder paths.** Finds binary versions and metadata for the same filename across locations and consolidates them. The result: fewer duplicate records than traditional file storage like SharePoint or Google Drive, better search, and record relationships built from the extracted metadata.
-- **Generative-AI provenance.** Tracking where AI-generated assets come from.
-- **Invisible watermarking.** Marking digital assets in a way that doesn't change how they look.
-- **Custom image classification.** Computer-vision models trained on your own assets, built as LandingAI LandingLens projects.
-- **Salesforce Marketing Cloud.** A Salesforce Marketing Cloud integration.
+- [Folder-path metadata extraction](/blog/2026-folder-paths-to-records/), for File On Demand: one clean record from many copies.
+- [Generative-AI provenance](/blog/2026-dam-integrations/): where an AI-generated asset came from.
+- [Invisible watermarking](/blog/2026-dam-integrations/): marks that do not change how an asset looks.
+- [Custom image classification](/blog/2026-dam-integrations/), with LandingAI LandingLens, trained on your own assets.
+- Salesforce Marketing Cloud: an integration with the platform.
 
 ### AI and agent integration
 I build Reckons.AI so a person reviews what the AI proposes. I pioneered Orange Logic Agents, including the OpenAI suggested-metadata integration, now a public feature. I use LLMs and other AI tools heavily in Reckons.AI, the custom software behind this site.
