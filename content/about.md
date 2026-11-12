@@ -1,20 +1,27 @@
 ---
-title: About Matthew Roe
+title: About Data Insight Solutions
 slug: about
 template: sections
 status: published
-excerpt: Matthew Roe — solutions architect for digital asset management, AI systems integrator, builder of Reckons.AI.
+excerpt: Data Insight Solutions is an Orange Logic DAM consultancy in Ava, Missouri, run by owner-operator Matthew Roe.
 ---
 
-## About ==Matthew Roe==
+## About ==Data Insight Solutions==
 @section: hero
 @eyebrow: About
 @tagline: Data Insight Solutions
 @mark-alt: The Data Insight Solutions mark
 
-Matthew Roe is a solutions architect for digital asset management (DAM) and an AI systems integrator. He is currently a DAM Developer / Software Engineer at VF Corp (contract through Apex Systems, October 2025 – present, remote), building enterprise Orange Logic automations and integrations. Earlier, he was Solution Engineer, then Solutions Architect, at Orange Logic (November 2023 – September 2025), serving many clients, most not disclosable.
+Data Insight Solutions is a consultancy in Ava, Missouri, working remotely with teams anywhere. It does enterprise Orange Logic digital asset management (DAM) consulting, custom integrations, and AI agents that keep a person in control. It is also home to Reckons.AI, the custom software behind this site. Work is project-based and starts with a discovery, and you deal directly with the person who does the work.
 
 - [Talk about your project →](/contact/)
+
+## Your contact: ==Matthew Roe==
+@section: text
+@id: owner
+@eyebrow: Owner-operator
+
+I'm Matthew Roe, the owner-operator of Data Insight Solutions: a solutions architect for DAM and an AI systems integrator. I'm currently a DAM Developer / Software Engineer at VF Corp (contract through Apex Systems, October 2025 – present, remote), building enterprise Orange Logic automations and integrations. Earlier, I was Solution Engineer, then Solutions Architect, at Orange Logic (November 2023 – September 2025), serving many clients, most not disclosable.
 
 ## The career line
 @section: blocks
