@@ -13,7 +13,7 @@ Matthew Roe is a solutions architect for digital asset management (DAM) and an A
 ## The career line
 
 - **Univision Computers** — Automation Manager & Field Engineer, October 2016 – May 2021
-- **Submittable** — Solution Engineer, Senior Solution Engineer, Solutions Architect, May 2021 – August 2023 (Missoula, Montana)
+- **Submittable** — Solution Engineer, Senior Solution Engineer, Solutions Architect, May 2021 – August 2023
 - **Orange Logic** — Solution Engineer, then Solutions Architect, November 2023 – September 2025
 - **VF Corp** — DAM Developer / Software Engineer, October 2025 – present
 
@@ -33,7 +33,9 @@ Matthew Roe is a solutions architect for digital asset management (DAM) and an A
 
 ## Education and research
 
-University of Nevada, Las Vegas, 2014–2016 (thesis); published "Is sadness blue? The problem of using figurative language for emotions on psychological tests" in *Behavior Research Methods* (2016).
+- University of Nevada, Las Vegas, 2014–2016: MS (thesis) in Management Information Systems
+- University of Nevada, Las Vegas, 2011–2014: BA in Psychology
+- UNLV Interactive Measurement Lab, 2013–2016; published "Is sadness blue? The problem of using figurative language for emotions on psychological tests" in *Behavior Research Methods* (2016).
 
 ## Reckons.AI
 
@@ -42,6 +44,8 @@ Matthew is building Reckons.AI, the custom software behind this site: MIT licens
 ## Recognition
 
 Microsoft Semantic Kernel Hackathon winner, and the first round-trip Philanthropy Data Commons integration with Submittable — both outside the Orange Logic consulting offer.
+
+Division I collegiate swimming: three conference championships, and ranked in the US top 100 in the 1650 freestyle.
 
 ## Community
 
