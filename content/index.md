@@ -9,7 +9,7 @@ excerpt: Enterprise Orange Logic DAM consulting, custom integrations and AI agen
 ## Get more from your ==digital assets==.
 @section: hero
 @eyebrow: Solutions architect · AI systems integrator
-@tagline: Collect · Integrate · Display
+@tagline: Data Insight Solutions
 @mark-alt: The Data Insight Solutions mark
 
 I help companies get more from digital asset management (DAM): the systems that store, organize and deliver their files, images and media. My specialty is Orange Logic, from enterprise architecture to custom integrations and AI agents.

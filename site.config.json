@@ -2,6 +2,8 @@
   "title": "Data Insight Solutions",
   "description": "Matthew Roe, solutions architect and AI systems integrator: enterprise Orange Logic DAM consulting, custom integrations and AI agents.",
   "logo": "/assets/DIS-mark.svg",
+  "markSvg": "assets/brand-mark-animated.svg",
+  "extraCss": "assets/site-mark.css",
   "favicon": "/assets/favicon.svg",
   "ogImage": "/assets/og-image.png",
   "nav": [
