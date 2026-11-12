@@ -66,12 +66,15 @@ Proof: About that many impressions on my post about why enterprise knowledge-gra
 @intro: A recent project, described with the client's confidentiality intact.
 
 ### The problem
+@diagram: assets/diagrams/problem.svg
 The same file, saved under the same name, ends up in several places. Copies multiply, records duplicate, and search gets worse.
 
 ### What I built
+@diagram: assets/diagrams/built.svg
 Metadata extraction and record consolidation from File On Demand virtual folder paths. It extracts structured metadata from the path and filename, and merges the binary versions and metadata for one filename across locations into one record.
 
 ### The result
+@diagram: assets/diagrams/result.svg
 Fewer duplicate records than traditional file storage like SharePoint or Google Drive, better search, and records linked by the extracted metadata.
 
 ## A conversation, a written scope, then a price you can plan around.
@@ -103,10 +106,11 @@ Price: **Fixed project price.** Larger engagements often prefer it, because it t
 
 ### Experience
 @as: timeline
+@note: The Orange Logic, Submittable and Univision Computers logos are shown only to describe my professional background. All trademarks belong to their owners, and no affiliation or endorsement is implied.
 - Oct 2025 – present | VF Corp | DAM Developer / Software Engineer (contract through Apex Systems)
-- Nov 2023 – Sep 2025 | Orange Logic | Solution Engineer, then Solutions Architect
-- May 2021 – Aug 2023 | Submittable | Solution Engineer, Senior Solution Engineer, Solutions Architect
-- Oct 2016 – May 2021 | Univision Computers | Automation Manager & Field Engineer
+- Nov 2023 – Sep 2025 | Orange Logic | Solution Engineer, then Solutions Architect | logo: /assets/logos/orange-logic.svg
+- May 2021 – Aug 2023 | Submittable | Solution Engineer, Senior Solution Engineer, Solutions Architect | logo: /assets/logos/submittable.svg
+- Oct 2016 – May 2021 | Univision Computers | Automation Manager & Field Engineer | logo: /assets/logos/univision-computers.webp
 
 ### Credentials
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d9efb272-a2e8-4162-8fb9-6fb7f266ef69)
