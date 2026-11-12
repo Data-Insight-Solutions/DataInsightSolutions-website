@@ -33,7 +33,7 @@ Matthew Roe is a solutions architect for digital asset management (DAM) and an A
 ### Credentials
 **Current:**
 
-- AWS Certified Solutions Architect – Associate, issued December 2024, valid to December 2027 — [verify](https://www.credly.com/badges/d9efb272-a2e8-4162-8fb9-6fb7f266ef69)
+- AWS Certified Solutions Architect – Associate, issued December 2024, valid to December 2027 — [verify](https://www.credly.com/badges/d9efb272-a2e8-4162-8fb9-6fb7f266ef69) | valid-until: 2027-12-01
 - Data Science and Machine Learning: Making Data-Driven Decisions, Great Learning & MIT, February 2024 — [verify](https://olympus1.mygreatlearning.com/certificate/XKUKUPWI)
 
 **Earlier certifications (expired):**
