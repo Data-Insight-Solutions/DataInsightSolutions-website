@@ -4,6 +4,7 @@
   "logo": "/assets/DIS-mark.svg",
   "markSvg": "assets/brand-mark-animated.svg",
   "extraCss": "assets/site-mark.css",
+  "guidedScroll": { "dwellSeconds": 8 },
   "favicon": "/assets/favicon.svg",
   "ogImage": "/assets/og-image.png",
   "nav": [
