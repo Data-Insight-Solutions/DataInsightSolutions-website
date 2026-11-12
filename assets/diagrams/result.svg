@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190" class="dg" role="img" aria-label="One record for plan.pdf holds three locations, a stack of versions and its labels. A search for plan finds that single record, and a line links it to a neighbouring record that shares the Alpha label">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190" class="dg" role="img" aria-label="One record for plan.pdf holds three locations, a stack of versions and its labels. A search for plan finds that single record">
 <rect class="box pop t0" x="8" y="8" width="172" height="172" rx="7"/>
 <text class="pop t1 " x="94" y="30">plan.pdf</text>
 <circle class="ring pop t1" cx="24" cy="50" r="5"/><circle class="ring pop t1" cx="40" cy="50" r="5"/><circle class="ring pop t1" cx="56" cy="50" r="5"/><text class="pop t1 mute" x="112" y="54">3 places</text>
 <rect class="doc pop t2" x="20" y="70" width="52" height="26" rx="4"/><rect class="doc pop t2" x="28" y="78" width="52" height="26" rx="4"/><rect class="doc pop t2" x="36" y="86" width="52" height="26" rx="4"/><text class="pop t2 mute" x="132" y="100">versions</text>
 <rect class="chip pop t3" x="18" y="142" width="40" height="18" rx="9"/><text class="pop t3" x="38.0" y="155">West</text>
 <rect class="chip pop t3" x="64" y="142" width="42" height="18" rx="9"/><text class="pop t3" x="85.0" y="155">Draft</text>
-<rect class="chip hot pop t3" x="112" y="142" width="42" height="18" rx="9"/><text class="pop t3" x="133.0" y="155">Alpha</text>
+<rect class="chip pop t3" x="112" y="142" width="42" height="18" rx="9"/><text class="pop t3" x="133.0" y="155">Alpha</text>
 <rect class="box pop t3" x="196" y="10" width="98" height="26" rx="13"/><circle class="ring pop t3" cx="212" cy="23" r="5"/><line class="ln t3" x1="216" y1="27" x2="221" y2="32" pathLength="100"/>
 <text class="pop t3 " x="256" y="27">plan</text>
 <rect class="box pop t4" x="196" y="44" width="98" height="24" rx="6"/><text class="pop t4 " x="245" y="60">plan.pdf</text>
-<rect class="box pop t3" x="214" y="110" width="76" height="56" rx="7"/>
-<text class="pop t3 mute" x="252" y="128">Other</text>
-<rect class="chip hot pop t3" x="226" y="138" width="42" height="18" rx="9"/><text class="pop t3" x="247.0" y="151">Alpha</text>
-<line class="ln hot t4" x1="154" y1="151" x2="226" y2="147" pathLength="100"/>
 </svg>

@@ -75,6 +75,9 @@
 .dg .ln.hot { stroke: var(--accent-bright); stroke-width: 1.8; }
 .dg .chip { fill: color-mix(in srgb, var(--accent) 14%, transparent); stroke: var(--accent); stroke-width: 1; }
 .dg .chip.hot { fill: color-mix(in srgb, var(--accent-bright) 32%, transparent); stroke: var(--accent-bright); stroke-width: 1.4; }
+.dg .vnode { fill: var(--panel-strong); stroke: var(--accent-2); stroke-width: 1.4; }
+.dg .vnode.hot { fill: color-mix(in srgb, var(--accent-bright) 35%, var(--panel-strong)); stroke: var(--accent-bright); stroke-width: 2; }
+.dg text.v { font-size: 10px; } .dg text.v.hot { fill: var(--text); font-weight: 600; }
 .dg .node { fill: var(--accent-bright); }
 .dg text { fill: var(--text-soft); font: 500 12px var(--mono); text-anchor: middle; }
 .dg text.mute { fill: var(--text-mute); font-size: 11.5px; }

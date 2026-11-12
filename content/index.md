@@ -75,7 +75,11 @@ Metadata extraction and record consolidation from File On Demand virtual folder 
 
 ### The result
 @diagram: assets/diagrams/result.svg
-Fewer duplicate records than traditional file storage like SharePoint or Google Drive, better search, and records linked by the extracted metadata.
+Fewer duplicate records than traditional file storage like SharePoint or Google Drive, and better search.
+
+### Versions and links
+@diagram: assets/diagrams/versions.svg
+Every version of a file sits in one history on its record, not scattered across copies. Records that share extracted metadata are linked, so related files can be found from one another.
 
 ## A conversation, a written scope, then a price you can plan around.
 @section: panels
