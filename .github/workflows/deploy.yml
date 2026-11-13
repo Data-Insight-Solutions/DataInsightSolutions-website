@@ -17,9 +17,9 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  # The Reckons.AI generator that built the approved preview (branch feat/site-section-layout).
-  # Bump this pin by pull request to a Reckons.AI main commit after v0.2.8 ships.
-  RECKONS_REF: 1a5ba45044eff1885c2724329d6135e0c1a4362c
+  # The Reckons.AI generator: the v0.2.8 release on main (merge of #624, 2026-11-13).
+  # Bump this pin by pull request when a later release changes the site builder.
+  RECKONS_REF: 53d4425f7230d9bb6a54a5f4bd8daf803b5f93fd
 
 jobs:
   deploy:
