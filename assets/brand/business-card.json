@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "design": {
+    "name": "Data Insight Solutions business card",
+    "owner": "Data Insight Solutions LLC",
+    "person": "Matthew Roe",
+    "size": "3.5 x 2 in (1050 x 600 px at 300 dpi), two sides",
+    "tool": "Canva",
+    "brand": {
+      "colours": ["navy #0b1328", "teal #1bb5aa", "teal #3ad0c4", "blue #4f8fe0", "violet #8b7cf6"],
+      "fonts": ["Space Grotesk", "IBM Plex Mono"],
+      "logo": "the node-graph mark of this website (assets/DIS-mark.svg)"
+    },
+    "front": "assets/brand/business-card-front.webp",
+    "back": "assets/brand/business-card-back.webp",
+    "publicCopy": "The front is shown as printed. The back is shown without the phone number, by the owner's choice (2026-11-12); email, website and the LinkedIn QR code stay."
+  },
+  "designVersions": [
+    { "id": "d1", "date": "2026-11-12", "summary": "First export of both sides at 300 dpi, after the logo, rule, teal labels, real contact lines and LinkedIn QR code were set." },
+    { "id": "d2", "date": "2026-11-12", "summary": "The owner enlarged the small text and adjusted the layout in Canva, because the first print on cardstock was not legible." },
+    { "id": "d3", "date": "2026-11-12", "summary": "The owner moved the dot on the back; a pixel comparison showed only the top half of the back changed." }
+  ],
+  "printSheetSpec": {
+    "paper": "US Letter, two sides",
+    "layout": "2 columns x 5 rows, 10 cards, cards butted with no gutter",
+    "bleed": "1/8 in in the card's edge colour",
+    "marks": "crop marks outside the bleed",
+    "duplex": "the back page is mirrored so it lines up when flipped on the long edge",
+    "note": "a printed note on the front page tells the printer to print at 100 percent and flip on the long edge",
+    "script": "scripts/content/print-sheet.ts in Reckons.AI"
+  },
+  "printSheets": [
+    { "id": "v1", "madeFrom": "d1", "what": "First print sheet.", "why": "To see the card on cardstock." },
+    { "id": "v2", "madeFrom": "d2", "what": "Rebuilt from the new export in about a minute.", "why": "The small text was not legible on the first print." },
+    { "id": "v3", "madeFrom": "d3", "what": "Rebuilt again after the dot on the back moved.", "why": "The design changed, so the sheet made from the old one was out of date." }
+  ],
+  "sheetsPrivate": "The print sheets are PDFs kept privately; they carry the full contact line. Only their existence and what they were made from are recorded here.",
+  "process": [
+    "The card was generated in Canva from the website's own colours, fonts and the node-graph logo uploaded from the live site; the owner picked one of four candidates.",
+    "It was refined through the Canva connector: the template's face photo replaced by the logo, the rule ending in a logo-style node, teal uppercase labels, real contact lines, and a LinkedIn QR code generated locally (navy on near-white, checked to decode) with a LinkedIn label above it.",
+    "The owner set the fonts to IBM Plex Mono in Canva, because the connector cannot change fonts.",
+    "Both sides were exported at 300 dpi and a print sheet was built from them (v1).",
+    "Printed on cardstock, the small text was not legible; the owner enlarged it and adjusted the layout, and sheet v2 was rebuilt from the new export in about a minute.",
+    "The owner moved the dot on the back and sheet v3 was rebuilt; a pixel comparison showed only the top half of the back changed.",
+    "The public copy omits the phone number, by the owner's choice."
+  ]
+}

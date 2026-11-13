@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# ── Reckons.AI workspace: PRIVATE ─────────────────────────────────────────────
+# Spaces, ingested sources and the review queue never enter this public repository; only the
+# published output (content/, assets/) does. scripts/guard-public.sh enforces this in a pre-commit
+# hook and in CI, so a forced add fails too.
+workspace/
+.env
+.claude/settings.local.json

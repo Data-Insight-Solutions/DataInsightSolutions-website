@@ -1,0 +1,53 @@
+{
+  "title": "Data Insight Solutions",
+  "url": "https://data-insight.solutions",
+  "description": "Data Insight Solutions: enterprise Orange Logic DAM consulting, custom integrations and AI agents, from a solutions architect and AI systems integrator in Ava, Missouri.",
+  "logo": "/assets/DIS-mark.svg",
+  "markSvg": "assets/brand-mark-animated.svg",
+  "extraCss": "assets/site-mark.css",
+  "guidedScroll": { "dwellSeconds": 8 },
+  "favicon": "/assets/favicon.svg",
+  "ogImage": "/assets/og-image.png",
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Services", "href": "/services/" },
+    { "label": "About", "href": "/about/" },
+    { "label": "Blog", "href": "/blog/" },
+    { "label": "Contact", "href": "/contact/" }
+  ],
+  "cta": { "label": "Start a project", "href": "/contact/" },
+  "footer": { "text": "© 2026 Data Insight Solutions · Ava, Missouri", "attribution": true },
+  "theme": {
+    "displayFont": "Space Grotesk, system-ui, sans-serif",
+    "monoFont": "IBM Plex Mono, ui-monospace, monospace",
+    "fontFaces": [
+      { "family": "Space Grotesk", "src": "/assets/fonts/space-grotesk.woff2", "weight": "300 700" },
+      { "family": "IBM Plex Mono", "src": "/assets/fonts/ibm-plex-mono-400.woff2", "weight": "400" },
+      { "family": "IBM Plex Mono", "src": "/assets/fonts/ibm-plex-mono-500.woff2", "weight": "500" }
+    ],
+    "dark": {
+      "bg": "#0b1328", "bg2": "#111a3a",
+      "panel": "rgba(20, 31, 64, .55)", "panelStrong": "rgba(22, 34, 70, .78)", "panelLine": "rgba(134, 186, 255, .14)",
+      "text": "#eef3fb", "textSoft": "#b7c4da", "textMute": "#8496b3",
+      "accent": "#1bb5aa", "accentBright": "#3ad0c4", "accent2": "#4f8fe0", "accent2Soft": "#86baff", "accent3": "#8b7cf6",
+      "warm": "#e98fae", "warm2": "#f3b38a",
+      "blobA": "rgba(27, 181, 170, .42)", "blobB": "rgba(79, 143, 224, .40)", "blobC": "rgba(139, 124, 246, .34)", "blobD": "rgba(233, 143, 174, .22)",
+      "onAccent": "#04110f", "note": "#f2b84b", "shadow": "rgba(3, 8, 24, .45)"
+    },
+    "light": {
+      "bg": "#f6f7fc", "bg2": "#eef1fa",
+      "panel": "rgba(255, 255, 255, .62)", "panelStrong": "rgba(255, 255, 255, .85)", "panelLine": "rgba(47, 74, 140, .12)",
+      "text": "#0f1a33", "textSoft": "#3b4a68", "textMute": "#66789a",
+      "accent": "#12968d", "accentBright": "#0f8a82", "accent2": "#4f8fe0", "accent2Soft": "#2f6fc4", "accent3": "#8b7cf6",
+      "warm": "#e98fae", "warm2": "#f3b38a",
+      "blobA": "rgba(58, 208, 196, .38)", "blobB": "rgba(134, 186, 255, .45)", "blobC": "rgba(176, 164, 255, .40)", "blobD": "rgba(246, 176, 196, .40)",
+      "onAccent": "#ffffff", "note": "#b7791f", "shadow": "rgba(40, 60, 120, .14)"
+    }
+  },
+  "contact": {
+    "webhook": "",
+    "topics": ["DAM consulting", "Orange Logic integration", "AI and agents", "Reckons.AI", "Something else"],
+    "tag": "landing"
+  },
+  "themeKey": "dis-theme"
+}
