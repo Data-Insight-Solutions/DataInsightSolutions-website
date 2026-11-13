@@ -89,7 +89,19 @@ jobs:
           # pipefail: without it `wrangler | tee` exits 0 when wrangler fails, and a failed
           # production deploy shows green (it did on 2026-11-13, run 43451221674).
           set -o pipefail
-          npx wrangler@4.160.1 pages deploy dist --project-name=data-insight-solutions --branch="$BRANCH" --commit-dirty=true | tee "$RUNNER_TEMP/wrangler.log"
+          # Retry: Cloudflare's API failed twice on 2026-11-13 with transient errors ("Unknown
+          # internal error", "upstream connect error"). A redeploy re-uploads nothing it already has.
+          for attempt in 1 2 3; do
+            if npx wrangler@4.160.1 pages deploy dist --project-name=data-insight-solutions --branch="$BRANCH" --commit-dirty=true | tee "$RUNNER_TEMP/wrangler.log"; then
+              break
+            fi
+            if [ "$attempt" = 3 ]; then
+              echo "::error title=Cloudflare Pages deploy failed::wrangler failed 3 times; read the errors above."
+              exit 1
+            fi
+            echo "::warning title=Cloudflare Pages deploy retry::wrangler failed (attempt $attempt of 3); retrying in $((attempt * 20))s."
+            sleep $((attempt * 20))
+          done
           url="$(grep -Eo 'https://[A-Za-z0-9.-]+\.pages\.dev' "$RUNNER_TEMP/wrangler.log" | tail -1 || true)"
           {
             echo "### Cloudflare Pages deployment"
