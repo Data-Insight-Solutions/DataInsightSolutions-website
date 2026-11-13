@@ -12,6 +12,7 @@ categories:
   - "DAM"
   - "AI"
   - "Integrations"
+coverImage: "/images/blog-posts/2026-dam-integrations.webp"
 ---
 
 A digital asset management system (a DAM) is where a company keeps its images, video and documents. On its own it stores and finds things. The value shows up when it is connected to the other tools a team relies on.
@@ -53,3 +54,5 @@ None of these is only a technical job. Each one depends on the team behind the o
 We work every day with the APIs and features of Orange Logic. Its [workflows](https://www.orangelogic.com/dam-platform/workflows), spaces and metadata schemas have to be carefully orchestrated to solve a real business goal. Any tool is only as useful as the craftsman wielding it.
 
 If one of these sounds like your problem, [let's talk](/contact/).
+
+*Cover image generated locally with an open image model (Z-Image-Turbo, Apache-2.0).*

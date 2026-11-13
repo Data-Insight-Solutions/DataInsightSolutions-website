@@ -12,6 +12,7 @@ categories:
   - "DAM"
   - "AI"
   - "Orange Logic"
+coverImage: "/images/blog-posts/2026-ai-agents-in-a-dam.webp"
 ---
 
 Ask anyone who runs a digital asset management system (a DAM) where the time goes, and the answer is usually the same: describing things. Every image, video and document needs a title, a description, keywords and a dozen other details before anyone can find it again. That information is called metadata, and most of it is still typed in by a person, one asset at a time.
@@ -41,3 +42,5 @@ So our first question on any project is not "where can we add AI?" It is "what i
 Matthew Roe, the owner-operator, developed custom integrations and early agent prototypes on the [Orange Logic](https://www.orangelogic.com) platform, and today consults on it: implementing the software and building custom integrations for the teams that use it. Neither he nor Data Insight Solutions speaks for Orange Logic or its product roadmap. What we bring is hands-on experience with the platform and with what makes these projects work.
 
 If your team is typing the same kinds of descriptions day after day, [let's talk](/contact/).
+
+*Cover image generated locally with an open image model (Z-Image-Turbo, Apache-2.0).*

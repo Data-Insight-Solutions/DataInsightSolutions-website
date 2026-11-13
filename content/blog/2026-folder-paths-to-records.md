@@ -12,6 +12,7 @@ categories:
   - "DAM"
   - "Integrations"
   - "Orange Logic"
+coverImage: "/images/blog-posts/2026-folder-paths-to-records.webp"
 ---
 
 Most teams have the same problem, whatever they store their files in. A file is saved under one name, then saved again in another folder, and again in a third. Each copy becomes its own record. Search returns three results that look the same, nobody is sure which one is current, and the folders that were meant to organize everything end up hiding it.
@@ -43,3 +44,5 @@ Two things follow from having one record per file:
 - **Related records are linked.** Records that share extracted information, such as the same project, are connected, so related files can be found from one another.
 
 If your files live in many places at once, [let's talk](/contact/).
+
+*Cover image generated locally with an open image model (Z-Image-Turbo, Apache-2.0).*
